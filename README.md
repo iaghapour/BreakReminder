@@ -6,7 +6,7 @@
 
 <img width="957" alt="Screenshot 2025-05-22 112551"  src="https://github.com/user-attachments/assets/33be2c49-8ad9-42fd-839b-d783974e549f" />
 
-برای دیدن پیش نمایش روی details کلیک کنید.
+برای دیدن پیش نمایش (ویدیو) روی details کلیک کنید.
 <details>
    
 ![Videoonline](https://github.com/user-attachments/assets/f56d1066-ac5f-4cc6-b08b-51e249bacdfd)
@@ -54,3 +54,22 @@
 ---
 
 ⚠️برنامه به دلیل اینکه امضا ثبت شده نداره ممکنه توسط یکی 2 تا آنتی ویرویس به عنوان ویروس شناخته بشه ولی شما میتونید اون رو توی virustotal اسکن کنید و با خیال راحت ازش استفاده کنید.
+
+---
+
+<br />
+
+## حمایت مالی (Donate) به صورت ریالی و رمز ارز :) 
+* https://hamibash.com/iAghapour
+
+* Tron:
+TCKh8yp3ERWXK5YkfFPEkrcxedUeKiTd5w
+
+* LTC:
+ltc1q03y2t3g5zgtjpgs9xwaxsjrz0uyqr59799n9ec
+
+* Tether:
+TCKh8yp3ERWXK5YkfFPEkrcxedUeKiTd5w
+
+* Bitcoin:
+bc1qpkgkzuzeg9kzs42xft2a69tpxcrxk2y47ap607
