@@ -45,6 +45,7 @@
   ## دانلود برنامه ⚡
   [دانبود آخرین ورژن برنامه](https://github.com/iaghapour/BreakReminder/releases/download/v1/Setup_Break.Reminder.exe)
 
+⭐یادتون نره به پروژه استار بدین :)
 <br />
 
 ---
