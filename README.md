@@ -6,17 +6,6 @@
 
 <img width="957" alt="Screenshot 2025-05-22 112551"  src="https://github.com/user-attachments/assets/33be2c49-8ad9-42fd-839b-d783974e549f" />
 
-برای دیدن پیش نمایش (ویدیو) روی details کلیک کنید.
-<details>
-   
-![Videoonline](https://github.com/user-attachments/assets/f56d1066-ac5f-4cc6-b08b-51e249bacdfd)
-
-</details>
-
-
-
-
-
 
 
 
@@ -54,8 +43,6 @@
 <br />
 
 ## حمایت مالی (Donate) به صورت ریالی و رمز ارز :) 
-* https://hamibash.com/iAghapour
-
 * Tron:
 TCKh8yp3ERWXK5YkfFPEkrcxedUeKiTd5w
 
