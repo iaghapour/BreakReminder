@@ -14,6 +14,7 @@
 
 ## ✨ Key Features
 
+-   🌐 **Bilingual Interface:** Enjoy the app in both **English** and **Persian**.
 -   🎨 **Full-Screen Reminders:** Always-on-top notifications ensure you never miss a break.
 -   ⚙️ **Customizable Timers:** Set custom work and break intervals to match your workflow.
 -   🖱️ **Smart Dismissal:** Dismiss reminders with any key or mouse click after a 2-second delay.
