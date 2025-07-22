@@ -1,61 +1,89 @@
-# برنامه یادآور استراحت (Break Reminder)
+# Break Reminder App
 
-## معرفی کلی
-**یادآور استراحت** یک برنامه کاربردی ساده و کارآمد برای سیستم‌عامل ویندوز است که با هدف ارتقای سلامت و بهره‌وری کاربران هنگام کار با کامپیوتر طراحی شده است. این برنامه به طور خودکار و در فواصل زمانی معین، به کاربر یادآوری می‌کند تا برای مدت کوتاهی از کار دست کشیده و استراحت کند. این امر به جلوگیری از خستگی چشم، مشکلات اسکلتی-عضلانی ناشی از نشستن طولانی‌مدت و افزایش تمرکز پس از استراحت کمک می‌کند.
+ \#\# 📋 Introduction
 
+**Break Reminder** is a simple yet powerful application for the **Windows** operating system, designed to enhance user health and productivity during long hours of computer work. The application automatically reminds users to take short breaks at regular, customizable intervals. This helps prevent common issues like eye strain and musculoskeletal problems associated with prolonged sitting, while also boosting focus and reducing mental fatigue.
 
-<img width="957" alt="Screenshot 2025-05-22 112551"  src="https://github.com/user-attachments/assets/33be2c49-8ad9-42fd-839b-d783974e549f" />
+<img width="1460" height="836" alt="Screenshot 2025-07-22 174547" src="https://github.com/user-attachments/assets/2ca695c1-ca2d-4b41-baf0-b2e1f7f33007" />
 
+## 🎯 Goals
 
+  - **Promote Healthy Work Habits:** Encourage users to take regular breaks to avoid burnout.
+  - **Reduce Fatigue:** Prevent uninterrupted work sessions that lead to decreased concentration and increased errors.
+  - **Boost Productivity:** Short, regular breaks can help restore energy and focus, ultimately leading to higher overall productivity.
 
+## ✨ Key Features
 
-## هدف برنامه
-*   **ترویج عادت‌های کاری سالم:** تشویق کاربران به گرفتن استراحت‌های منظم در طول ساعات کاری طولانی.
-*   **کاهش خستگی و فرسودگی شغلی:** جلوگیری از کار بی‌وقفه که منجر به کاهش تمرکز و افزایش خطا می‌شود.
-*   **افزایش بهره‌وری:** استراحت‌های کوتاه می‌توانند به بازیابی انرژی و تمرکز کمک کرده و در نهایت بهره‌وری را افزایش دهند.
+  - **🎨 Full-Screen Reminders:**
 
-## ویژگی‌های کلیدی
-*   **یادآوری‌های تمام‌صفحه با زبان فارسی:**
-    *   در زمان تعیین‌شده، یک صفحه تمام‌صفحه ظاهر می‌شود که توجه کامل کاربر را جلب می‌کند.
-    *   این صفحه روی تمام پنجره‌های دیگر قرار می‌گیرد تا اطمینان حاصل شود که یادآوری دیده می‌شود.
-*   **تنظیمات قابل سفارشی‌سازی توسط کاربر:**
-    *   کاربر می‌تواند بعد نصب برنامه، **فاصله زمانی بین استراحت‌ها** (مدت زمان کار) و **مدت زمان هر استراحت** را به دلخواه خود تنظیم کند.
-    *   کاربر می‌تواند پس از 2 ثانیه اولیه (برای اطمینان از دیده شدن پیام)، با فشردن هر کلیدی یا کلیک موس، صفحه یادآور را ببندد.
-*   اجرا نشدن زمانی که برنامه تمام صفحه مثل پلیر و بازی در حال اجرا هستن.
-*   اضافه شدن حالت دارک مود و فعال سازی بصورت خودکار (از ساعت 21 تا 7).
-*   اضافه شدن قابلیت کنترل برنامه در تسکبار (کنار ساعت):
-    *   توقف موقت برنامه و شروع دوباره.
-    *   تنظیمات برنامه مثل تغییر زمان کار و مقدار استراحت.
-    *   خروج کامل از برنامه.
-*   **اجرای خودکار هنگام راه‌اندازی ویندوز:**
-    *   برنامه پس از نصب، به‌طور خودکار با هر بار راه‌اندازی ویندوز اجرا شود و نیازی به اجرای دستی توسط کاربر نباشد.
-*   **نصب و حذف آسان:**
-    *   ارائه شده به صورت یک فایل نصب‌کننده (`.exe`) استاندارد که فرآیند نصب و حذف برنامه را ساده می‌کند.
+      - When it's time for a break, a full-screen notification appears, grabbing the user's full attention.
+      - This screen is always on top of all other windows to ensure the reminder is never missed.
 
+  - **⚙️ Customizable Timers:**
 
+      - After installation, you can easily set the duration of your work intervals and the length of your break periods to fit your personal workflow.
 
-<br />
-  
-  ## دانلود برنامه ⚡
-  [دانبود آخرین ورژن برنامه](https://github.com/iaghapour/BreakReminder/releases)
+  - **🖱️ Smart Dismissal:**
 
-⭐یادتون نره به پروژه استار بدین :)
-<br />
+      - The reminder screen is displayed for a minimum of 2 seconds to ensure it's seen. After that, you can dismiss it with a single keystroke or mouse click.
 
----
+  - **🎮 Full-Screen App Detection:**
 
+      - The app is smart\! It automatically pauses reminders when you are using a full-screen application, such as a video player or a game, so you won't be interrupted.
 
-<br />
+  - **🌙 Automatic Dark Mode:**
 
-## حمایت مالی (Donate) به صورت ریالی و رمز ارز :) 
-* Tron:
+      - The application automatically switches to a comfortable dark theme between **9 PM (21:00)** and **7 AM (07:00)**.
+
+  - **🔔 System Tray Control:**
+
+      - The application runs quietly in your system tray (next to the clock) and gives you full control:
+          - **Pause & Resume:** Temporarily disable and re-enable reminders.
+          - **Settings:** Quickly access settings to change work/break timers.
+          - **Exit:** Completely close the application.
+
+  - **🚀 Auto-Start with Windows:**
+
+      - Once installed, the app will automatically launch every time you start Windows. No manual startup required.
+
+  - **📦 Easy Installation:**
+
+      - Comes as a standard `.exe` installer for a smooth and straightforward installation and uninstallation process.
+
+## ⚡ Download
+
+[**Download the latest version here**](https://github.com/iaghapour/BreakReminder/releases)
+
+<br>
+<br>
+<br>
+
+> If you find this project useful, please consider giving it a star\! ⭐
+
+## ❤️ Support the Project (Donate)
+
+Your support helps keep the project alive and running. Donations can be made via cryptocurrency. Thank you for your generosity\! 😊
+
+**Tron (TRC20):**
+
+```
 TCKh8yp3ERWXK5YkfFPEkrcxedUeKiTd5w
+```
 
-* LTC:
+**Litecoin (LTC):**
+
+```
 ltc1q03y2t3g5zgtjpgs9xwaxsjrz0uyqr59799n9ec
+```
 
-* Tether:
+**Tether (USDT - TRC20):**
+
+```
 TCKh8yp3ERWXK5YkfFPEkrcxedUeKiTd5w
+```
 
-* Bitcoin:
+**Bitcoin (BTC):**
+
+```
 bc1qpkgkzuzeg9kzs42xft2a69tpxcrxk2y47ap607
+```
